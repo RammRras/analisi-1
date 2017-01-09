@@ -5,7 +5,7 @@
  	Assiomi algebrici e di ordinamento
 	Assioma di completezza
 	Numeri naturali, relativi e razionali
- 	Incompletezza dei numeri razionali 									[__dimostrazione__]
+ 	Incompletezza dei numeri razionali 									[dimostrazione]
 	Maggiorante, minorante di un sottoinsieme di R
  	Insiemi limitati superiormente ed inferiormente
  	Intervalli e semirette in R
