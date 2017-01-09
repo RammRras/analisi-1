@@ -22,7 +22,7 @@
  	Fattoriali, coecienti binomiali
  	Binomio di Newton
 
-##Numeri complessi 
+###Numeri complessi 
 	Numeri complessi in forma geometrica
  	Piano di Gauss
 	Operazioni in C
@@ -41,7 +41,7 @@
  	Formula risolutiva delle equazioni di secondo grado complesse 		[dimostrazione]
 	Teorema fondamentale dell'algebra per equazioni di grado n
 
-##Le funzioni reali
+###Le funzioni reali
  	Funzioni reali di variabile reale
  	Insieme di definizione
  	Immagine
@@ -60,7 +60,7 @@
  	Operazioni tra funzioni: funzioni somma, differenza, prodotto, quoziente
  	Funzione composta
 
-##Limiti e Continuità
+###Limiti e Continuità
  	L'ampliamento dei numeri reali
  	Ordinamento in R
  	Operazioni in R
@@ -90,7 +90,7 @@
  	Teorema sulla continuità della funzione inversa
  	Continuità delle funzioni elementari
 
-##Successioni
+###Successioni
  	Successioni di numeri reali e proprietà
  	Limiti di successioni
  	Successioni convergenti, divergenti ed indeterminate
@@ -98,7 +98,7 @@
  	Successioni estratte pari e dispari
  	Teorema sulla caratterizzazione del limite di funzioni mediante limite di successioni
 
-##Derivata
+###Derivata
  	Defnizione di derivata
  	Interpretazione geometrica della derivata
  	Retta tangente al grafico
@@ -132,7 +132,7 @@
  	Applicazioni
  	Studio qualitativo del grafico di una funzione
 
-##Integrale definito
+###Integrale definito
  	Partizione di un intervallo
  	Somme integrali inferiori e superiori
 	Funzioni integrabili secondo Riemann su un intervallo
@@ -144,7 +144,7 @@
  	Teorema della Media Integrale
  	Applicazioni al calcolo delle aree
 
-##Integrale indefinito
+###Integrale indefinito
 	Primitiva di una funzione
 	Teorema fondamentale del calcolo integrale
  	Caratterizzazione dell'insieme delle primitive di una funzione continua su un intervallo chiuso e limitato
