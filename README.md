@@ -1,24 +1,24 @@
-#Programma analisi matematica 1
+#Programma di analisi matematica 1
 
 ##Numeri reali
 	Numeri reali
  	Assiomi algebrici e di ordinamento
 	Assioma di completezza
 	Numeri naturali, relativi e razionali
- 	Incompletezza dei numeri razionali 												**[dimostrazione]**
+ 	Incompletezza dei numeri razionali 									[**dimostrazione**]
 	Maggiorante, minorante di un sottoinsieme di R
  	Insiemi limitati superiormente ed inferiormente
  	Intervalli e semirette in R
  	Massimo e minimo di un sottoinsieme di R
 	Estremo superiore, estremo inferiore di un sottoinsieme di R
- 	Teorema di esistenza dell'estremo superiore 									**[dimostrazione]**
- 	Illimitatezza superiore di N 													**[dimostrazione]**
+ 	Teorema di esistenza dell'estremo superiore 						[dimostrazione]
+ 	Illimitatezza superiore di N 										[dimostrazione]
  	Principio del minimo intero in N
- 	Proprietà Archimedea dei numeri reali 											**[dimostrazione]**
- 	Teorema di densità dei numeri razionali nei numeri reali 						**[dimostrazione]**
+ 	Proprietà Archimedea dei numeri reali 								[dimostrazione]
+ 	Teorema di densità dei numeri razionali nei numeri reali 			[dimostrazione]
 	Teorema di esistenza della radice n-esima
-	Teorema di densità dei numeri irrazionali nei numeri reali 						**[dimostrazione]**
- 	Il Principio di Induzione completa 												**[dimostrazione]**
+ 	Teorema di densità dei numeri irrazionali nei numeri reali 			[dimostrazione]
+ 	Il Principio di Induzione completa 									[dimostrazione]
  	Fattoriali, coecienti binomiali
  	Binomio di Newton
 
@@ -34,11 +34,11 @@
  	Coordinate polari
  	Rappresentazione dei numeri complessi in forma trigonometrica
  	Potenza di un numero complesso
- 	Formula di De Moivre															**[dimostrazione]**
+ 	Formula di De Moivre												[dimostrazione]
  	Radici di un numero complesso
- 	Formula risolutiva delle Radici 												**[dimostrazione]**
+ 	Formula risolutiva delle Radici 									[dimostrazione]
  	Interpretazione geometrica
- 	Formula risolutiva delle equazioni di secondo grado complesse 					**[dimostrazione]**
+ 	Formula risolutiva delle equazioni di secondo grado complesse 		[dimostrazione]
 	Teorema fondamentale dell'algebra per equazioni di grado n
 
 ##Le funzioni reali
