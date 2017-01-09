@@ -1,11 +1,11 @@
 #Programma di analisi matematica 1
 
-##Numeri reali
+###Numeri reali
 	Numeri reali
  	Assiomi algebrici e di ordinamento
 	Assioma di completezza
 	Numeri naturali, relativi e razionali
-Incompletezza dei numeri razionali 										[dimostrazione]
+ 	Incompletezza dei numeri razionali 									[dimostrazione]
 	Maggiorante, minorante di un sottoinsieme di R
  	Insiemi limitati superiormente ed inferiormente
  	Intervalli e semirette in R
