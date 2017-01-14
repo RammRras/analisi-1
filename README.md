@@ -5,20 +5,20 @@
  	Assiomi algebrici e di ordinamento
 	Assioma di completezza
 	Numeri naturali, relativi e razionali
- 	Incompletezza dei numeri razionali									[dimostrazione]
+ 	*Incompletezza dei numeri razionali
 	Maggiorante, minorante di un sottoinsieme di R
  	Insiemi limitati superiormente ed inferiormente
  	Intervalli e semirette in R
  	Massimo e minimo di un sottoinsieme di R
 	Estremo superiore, estremo inferiore di un sottoinsieme di R
- 	Teorema di esistenza dell'estremo superiore 						[dimostrazione]
- 	Illimitatezza superiore di N 										[dimostrazione]
+ 	*Teorema di esistenza dell'estremo superiore
+ 	*Illimitatezza superiore di N
  	Principio del minimo intero in N
- 	Proprietà Archimedea dei numeri reali 								[dimostrazione]
- 	Teorema di densità dei numeri razionali nei numeri reali 			[dimostrazione]
+ 	*Proprietà Archimedea dei numeri reali
+ 	*Teorema di densità dei numeri razionali nei numeri reali
 	Teorema di esistenza della radice n-esima
- 	Teorema di densità dei numeri irrazionali nei numeri reali 			[dimostrazione]
- 	Il Principio di Induzione completa 									[dimostrazione]
+ 	*Teorema di densità dei numeri irrazionali nei numeri reali
+ 	*Il Principio di Induzione completa
  	Fattoriali, coecienti binomiali
  	Binomio di Newton
 
@@ -34,11 +34,11 @@
  	Coordinate polari
  	Rappresentazione dei numeri complessi in forma trigonometrica
  	Potenza di un numero complesso
- 	Formula di De Moivre												[dimostrazione]
+ 	*Formula di De Moivre
  	Radici di un numero complesso
- 	Formula risolutiva delle Radici 									[dimostrazione]
+ 	*Formula risolutiva delle Radici
  	Interpretazione geometrica
- 	Formula risolutiva delle equazioni di secondo grado complesse 		[dimostrazione]
+ 	*Formula risolutiva delle equazioni di secondo grado complesse
 	Teorema fondamentale dell'algebra per equazioni di grado n
 
 ###Le funzioni reali
@@ -49,7 +49,7 @@
  	Funzione restrizione
  	Funzioni ingettive, surgettive
  	Funzioni bigettive
- 	Funzioni inverse<
+ 	Funzioni inverse
  	Funzioni monotone
  	Funzioni pari, funzioni dispari, funzioni periodiche
 	Funzioni lineari
@@ -61,13 +61,13 @@
  	Funzione composta
 
 ###Limiti e Continuità
- 	L'ampliamento dei numeri reali
- 	Ordinamento in R
- 	Operazioni in R
- 	Punti di accumulazione di sottoinsiemi di R in R
+	L'ampliamento dei numeri reali 								
+ 	Ordinamento in R ampliato
+ 	Operazioni in R ampliato
+ 	Punti di accumulazione di sottoinsiemi di R in R ampliato
  	Limite di funzione reale
-	Teorema sull'unicità del limite
- 	Teorema della permanenza del segno
+	*Teorema sull'unicità del limite
+ 	*Teorema della permanenza del segno
  	Teoremi di confronto
  	Teorema sul limite della restrizione
  	Limite destro e limite sinistro
@@ -84,9 +84,9 @@
 	Continuità della funzione prodotto
  	Teorema sulla continuità della funzione composta
  	Teorema di Weierstrass
-	Teorema degli zeri
+	*Teorema degli zeri
  	Applicazioni alla ricerca di soluzioni per equazioni algebriche e trascendenti
- 	Teorema dei valori intermedi
+ 	*Teorema dei valori intermedi
  	Teorema sulla continuità della funzione inversa
  	Continuità delle funzioni elementari
 
