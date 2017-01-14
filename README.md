@@ -158,4 +158,4 @@
  	Formula di integrazione per sostituzione ed applicazioni
 	
 	
-(*) => **Sono in programma le dimostrazioni degli argomenti asteriscati**
+(\*) => **Sono in programma le dimostrazioni degli argomenti asteriscati**
