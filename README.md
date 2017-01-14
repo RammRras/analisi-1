@@ -156,3 +156,6 @@
  	Integrazione di funzioni razionali fratte
  	Formula di integrazione per parti ed applicazioni
  	Formula di integrazione per sostituzione ed applicazioni
+	
+	
+(*) => **Sono in programma le dimostrazioni degli argomenti asteriscati**
