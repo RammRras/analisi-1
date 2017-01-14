@@ -1,26 +1,27 @@
 #Programma di analisi matematica 1
 
-###Numeri reali
-	Numeri reali
- 	Assiomi algebrici e di ordinamento
-	Assioma di completezza
-	Numeri naturali, relativi e razionali
- 	*Incompletezza dei numeri razionali
-	Maggiorante, minorante di un sottoinsieme di R
- 	Insiemi limitati superiormente ed inferiormente
- 	Intervalli e semirette in R
- 	Massimo e minimo di un sottoinsieme di R
-	Estremo superiore, estremo inferiore di un sottoinsieme di R
- 	*Teorema di esistenza dell'estremo superiore
- 	*Illimitatezza superiore di N
- 	Principio del minimo intero in N
- 	*Proprietà Archimedea dei numeri reali
- 	*Teorema di densità dei numeri razionali nei numeri reali
-	Teorema di esistenza della radice n-esima
- 	*Teorema di densità dei numeri irrazionali nei numeri reali
- 	*Il Principio di Induzione completa
- 	Fattoriali, coecienti binomiali
- 	Binomio di Newton
+##Numeri reali
+					Numeri reali
+ 					Assiomi algebrici e di ordinamento
+					Assioma di completezza
+					Numeri naturali, relativi e razionali
+ 	[dimostrazione]	Incompletezza dei numeri razionali 									
+					Maggiorante, minorante di un sottoinsieme di R
+ 					Insiemi limitati superiormente ed inferiormente
+ 					Intervalli e semirette in R
+ 					Massimo e minimo di un sottoinsieme di R
+					Estremo superiore, estremo inferiore di un sottoinsieme di R
+	[dimostrazione] Teorema di esistenza dell'estremo superiore 
+	[dimostrazione] Illimitatezza superiore di N
+					Principio del minimo intero in N
+	[dimostrazione] Proprietà Archimedea dei numeri reali 								
+	[dimostrazione] Teorema di densità dei numeri razionali nei numeri reali 			
+					Teorema di esistenza della radice n-esima
+	[dimostrazione]	Teorema di densità dei numeri irrazionali nei numeri reali 			
+	[dimostrazione]	Il Principio di Induzione completa 									
+					Fattoriali, coecienti binomiali
+					Binomio di Newton
+
 
 ###Numeri complessi 
 	Numeri complessi in forma geometrica
