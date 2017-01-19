@@ -82,9 +82,9 @@
                     Continuità della funzione prodotto
                     Teorema sulla continuità della funzione composta
                     Teorema di Weierstrass
-    [dimostrazione] Teorema degli zeri													
+    [dimostrazione] Teorema degli zeri																
                     Applicazioni alla ricerca di soluzioni per equazioni algebriche e trascendenti	
-    [dimostrazione] Teorema dei valori intermedi 											
+    [dimostrazione] Teorema dei valori intermedi 													
                     Teorema sulla continuità della funzione inversa
                     Continuità delle funzioni elementari
 
@@ -100,33 +100,33 @@
                     Defnizione di derivata
                     Interpretazione geometrica della derivata
                     Retta tangente al grafico
-                    Teorema sulla derivata della funzione somma
-                    Teorema sulla derivata della funzione prodotto
-                    Teorema sulla derivata della funzione reciproca
-                    Teorema sulla derivata della funzione quoziente
-                    Teorema sulla derivata della funzione inversa
+    [dimostrazione] Teorema sulla derivata della funzione somma
+    [dimostrazione] Teorema sulla derivata della funzione prodotto
+    [dimostrazione] Teorema sulla derivata della funzione reciproca
+    [dimostrazione] Teorema sulla derivata della funzione quoziente
+    [dimostrazione] Teorema sulla derivata della funzione inversa
                     Derivate delle funzioni elementari
                     Teorema sulla derivata della funzione composta
-                    Teorema di Rolle
-                    Teorema di Lagrange
+    [dimostrazione] Teorema di Rolle
+    [dimostrazione] Teorema di Lagrange
                     Teorema di Cauchy
                     I Teoremi di De L'Hopital ed applicazioni allo studio dei limiti
                     Asintoti
-                    Criterio di monotonia
-                    Caratterizzazione delle funzioni costanti in un intervallo
-                    Criterio di stretta monotonia
+    [dimostrazione] Criterio di monotonia
+    [dimostrazione] Caratterizzazione delle funzioni costanti in un intervallo
+    [dimostrazione] Criterio di stretta monotonia
                     Convessità e concavità
                     Flessi
-                    Criterio di convessità
+    [dimostrazione] Criterio di convessità
                     Punti di massimo locale, punti di minimo locale
                     Punti stazionari
-                    Teorema di Fermat
+    [dimostrazione] Teorema di Fermat
                     Condizioni necessarie e sufficienti per l'esistenza di minimi e massimi relativi
-                    La formula di Taylor con Resto di Peano
-                    Unicità del Polinomio di Taylor
+    [dimostrazione] La formula di Taylor con Resto di Peano
+    [dimostrazione] Unicità del Polinomio di Taylor
                     Sviluppi notevoli
                     Sviluppi mediante sostituzione
-                    Criterio per lo studio dei punti di massimo e minimo relativo mediante le derivate di ordine superiore 	
+    [dimostrazione] Criterio per lo studio dei punti di massimo e minimo relativo mediante le derivate di ordine superiore 	
                     Applicazioni
                     Studio qualitativo del grafico di una funzione
 
@@ -139,14 +139,14 @@
                     Teorema di integrabilità secondo Riemann delle funzioni monotone
                     Teorema di integrabilità secondo Riemann delle funzioni continue
                     Proprietà di linearità, addittività, confronto degli integrali definiti
-                    Teorema della Media Integrale
+    [dimostrazione] Teorema della Media Integrale
                     Applicazioni al calcolo delle aree
 
 ##Integrale indefinito
                     Primitiva di una funzione
-                    Teorema fondamentale del calcolo integrale
-                    Caratterizzazione dell'insieme delle primitive di una funzione continua su un intervallo chiuso e limitato
-                    Teorema di Torricelli
+    [dimostrazione] Teorema fondamentale del calcolo integrale
+    [dimostrazione] Caratterizzazione dell'insieme delle primitive di una funzione continua su un intervallo chiuso e limitato
+    [dimostrazione] Teorema di Torricelli
                     Integrale indefinito
                     Proprietà degli integrali indefniti
                     Integrali immediati
