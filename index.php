@@ -10,7 +10,7 @@
 	<h1>
 		<?php
 
-		    $f_contents = file("programma.txt"); 
+		    $f_contents = file("lista.txt"); 
 		    $line = $f_contents[rand(0, count($f_contents) - 1)];
 
 		    echo $line;
