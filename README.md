@@ -65,7 +65,7 @@
                     Punti di accumulazione di sottoinsiemi di R in R ampliato
                     Limite di funzione reale
     [dimostrazione] Teorema sull'unicità del limite 													
-                    Teorema della permanenza del segno												
+    [dimostrazione] Teorema della permanenza del segno												
                     Teoremi di confronto
                     Teorema sul limite della restrizione
                     Limite destro e limite sinistro
