@@ -120,7 +120,7 @@
                     Partizione di un intervallo
                     Somme integrali inferiori e superiori
                     Funzioni integrabili secondo Riemann su un intervallo
-                    Integrale definitos
+                    Integrale definito
                     Intepretazione geometrica
                     Teorema di integrabilità secondo Riemann delle funzioni monotone
                     Teorema di integrabilità secondo Riemann delle funzioni continue
